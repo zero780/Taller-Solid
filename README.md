@@ -1,2 +1,2 @@
-# solid
-Ejercicio de SOLID
+# SOLID
+Ejercicio en clase
