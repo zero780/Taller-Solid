@@ -1,2 +1,2 @@
 # SOLID
-Ejercicio en clase
+Taller en clase
